@@ -2,7 +2,7 @@ import java.util.Locale;
 import java.util.ResourceBundle;
 
 public class Greeter {
-
+  //Bug fixed
   private Locale locale;
   private String name;
 
